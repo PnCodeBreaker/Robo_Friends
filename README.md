@@ -8,3 +8,5 @@ To run the Project (node_modules not included in this github repo):-
 2) Run Npm install/ npx create-react-app my-app
 3) Npm start.
 
+
+![Robo_Friends](https://user-images.githubusercontent.com/41236287/77447709-fc086a80-6e15-11ea-92b4-4e49ec4ca9ec.gif)
